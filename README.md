@@ -4,5 +4,8 @@ Well let's dive in together!
 
 This repository includes:
 1- Making your own static and dynamic Library in C :
+
 2 - More about Pointers :
+
 3 - Segmentation Fault error : 
+
