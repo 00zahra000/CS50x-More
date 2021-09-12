@@ -1,4 +1,8 @@
 # CS50x-More
-Codes of this meduim post:
+This is a compelementary repository about Harvard's CS50. This course covers many interesing fields of computer, but there are still somethings you need to go deeper into.
+Well let's dive in together!
 
-This is a compelementary article about Harvard's CS50 weeks 4 and 5.
+This repository includes:
+1- Making your own static and dynamic Library in C :
+2 - More about Pointers :
+3 - Segmentation Fault error : 
