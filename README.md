@@ -3,7 +3,7 @@ This is a compelementary repository about Harvard's CS50. This course covers man
 Well let's dive in together!
 
 This repository includes:
-1- Making your own static and dynamic Library in C :
+1- Making your own static and dynamic Library in C : https://medium.com/@zahrahaghgu/cs50x-more-create-your-library-in-c-1ed22e0d717f
 
 2 - More about Pointers :
 
