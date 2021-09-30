@@ -8,5 +8,5 @@ This repository includes:
 
 2 - More about Pointers : https://medium.com/@zahrahaghgu/cs50x-more-pointers-4dc363ed7603?postPublishedType=repub3
 
-3 - Segmentation Fault error : 
+3 - Segmentation Fault error : https://medium.com/@zahrahaghgu/cs50x-more-segmentation-fault-a390dceb4636
 
