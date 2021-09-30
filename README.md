@@ -1,4 +1,4 @@
-# CS50x-More
+# CS50x More
 This is a compelementary repository about Harvard's CS50. This course covers many interesing fields of computer, but there are still somethings you need to go deeper into.
 Well let's dive in together!
 
